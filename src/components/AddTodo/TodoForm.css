@@ -1,0 +1,23 @@
+.input {
+  padding: 10px;
+  margin-right: 1rem;
+  width: 300px;
+  border: none;
+  outline: none;
+}
+
+.icon {
+  position: absolute;
+  border: none;
+  outline: none;
+  height: 2.18rem;
+  font-size: 1.5rem;
+  left: 29.57em;
+  background: blueviolet;
+  color: white;
+  cursor: pointer;
+}
+
+.form {
+  display: flex;
+}

@@ -1,0 +1,33 @@
+.card {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  justify-content: space-between;
+  height: 2.5rem;
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  padding: 5.6px;
+  width: 1.7rem;
+  border: none;
+  outline: none;
+  font-size: 1.4rem;
+  color: #fff;
+  cursor: pointer;
+}
+
+.del {
+  background-color: red;
+}
+
+.done {
+  background-color: blue;
+}
+
+.btn-container {
+  display: flex;
+  gap: 10px;
+}
